@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>miyuan.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C1CECFCF3AA99DBED247499FA17432A8923FA4FF</string>
+				<key>dateExpires</key>
+				<string>2019/9/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>42M5M6L68Y.org.reactjs.native.example.miyuan</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>42M5M6L68Y</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>42M5M6L68Y.org.reactjs.native.example.miyuan</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>miyuan.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>790f6d1c-bd1d-4cc0-96e4-81b7a09c4406</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>42M5M6L68Y</string>
+				<key>name</key>
+				<string>LeYuan Xu</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
